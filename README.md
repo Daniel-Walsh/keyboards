@@ -14,4 +14,4 @@ $ sudo cp Programmer\ QWERTY.keylayout /Library/Keyboard\ Layouts/
 
 ## Preview
 
-![preview](./preview.PNG)
+![preview](./preview.png)

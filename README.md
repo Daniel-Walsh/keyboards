@@ -9,7 +9,7 @@ Because relearning all of my letter and number keys for Dvorak or Colemak is jus
 On MacOS: 
 
 ```bash
-$ sudo cp Programmer\ QWERTY.keylayout /Library/Keyboard\ Layouts/
+sudo cp Programmer\ QWERTY.keylayout /Library/Keyboard\ Layouts/
 ```
 
 ## Preview
